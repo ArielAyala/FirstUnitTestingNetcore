@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUnitTestingNetcore", "FirstUnitTestingNetcore\FirstUnitTestingNetcore.csproj", "{B9619A04-D96B-42ED-B210-4414187AEFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUnitTestingNetcoreTest", "FirstUnitTestingNetcoreTest\FirstUnitTestingNetcoreTest.csproj", "{DDC9B4F3-4343-4865-8220-970FB2F3ACC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9619A04-D96B-42ED-B210-4414187AEFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9619A04-D96B-42ED-B210-4414187AEFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9619A04-D96B-42ED-B210-4414187AEFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9619A04-D96B-42ED-B210-4414187AEFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC9B4F3-4343-4865-8220-970FB2F3ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC9B4F3-4343-4865-8220-970FB2F3ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC9B4F3-4343-4865-8220-970FB2F3ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC9B4F3-4343-4865-8220-970FB2F3ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201F310A-6523-44E9-8E70-BFF997A57523}
+	EndGlobalSection
+EndGlobal

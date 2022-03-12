@@ -1,0 +1,9 @@
+
+FirstUnitTestingNetcore/bin/
+FirstUnitTestingNetcore/obj/
+FirstUnitTestingNetcoreTest/bin/
+FirstUnitTestingNetcoreTest/obj/
+
+/node_modules
+/wwwroot/node_modules
+
