@@ -15,7 +15,14 @@ namespace FirstUnitTestingNetcoreTest
         [TestMethod]
         public void TestLoginTrue()
         {
+            //Arrange
+            string user = "ariel";
+            string pass = "123456";
+
+            // Act
             bool result = FirstUnitTestingNetcore.Program.Login("ariel", "123456");
+
+            // Assert   
             Assert.AreEqual(true, result);
         }
 
