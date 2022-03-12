@@ -20,7 +20,7 @@ namespace FirstUnitTestingNetcoreTest
             string pass = "123456";
 
             // Act
-            bool result = FirstUnitTestingNetcore.Program.Login("ariel", "123456");
+            bool result = FirstUnitTestingNetcore.Program.Login(user, pass);
 
             // Assert   
             Assert.AreEqual(true, result);
